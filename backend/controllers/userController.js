@@ -89,6 +89,7 @@ const getMe = asyncHandler(async (req, res) => {
         name,
         email,
     })
+    
 })
 
 
